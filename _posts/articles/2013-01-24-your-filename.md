@@ -1,10 +1,10 @@
 ---
-published: false
-layout: article
-title: Your Post Title
-abstract: Short summary of your article.
-author_twitter: johndoe
-author: John Doe
+published: true
+layout: default
+title: Come In With The Milk
+abstract: Show me all the blueprints.
+author_twitter: maxiwalton
+author: Maxi
 categories:
 - articles
 ---
