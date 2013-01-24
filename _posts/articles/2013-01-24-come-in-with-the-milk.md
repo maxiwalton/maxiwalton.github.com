@@ -1,10 +1,6 @@
 ---
 published: true
-<<<<<<< HEAD
-layout: about
-=======
 layout: article
->>>>>>> Changed layout to article
 title: Come In With The Milk
 abstract: Show me all the blueprints.
 author_twitter: maxiwalton
