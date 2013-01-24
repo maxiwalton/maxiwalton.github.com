@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: about
 title: Come In With The Milk
 abstract: Show me all the blueprints.
 author_twitter: maxiwalton
